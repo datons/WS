@@ -6,3 +6,4 @@ output
 B.ipynb
 alpha_vantage.py
 __pycache__
+.DS_Store
