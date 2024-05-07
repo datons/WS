@@ -4,3 +4,5 @@ output
 .env
 10
 B.ipynb
+alpha_vantage.py
+__pycache__
