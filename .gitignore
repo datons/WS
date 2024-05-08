@@ -3,9 +3,4 @@
 10
 __pycache__
 .DS_Store
-
-# solutions
-# alpha_vantage.py
-# B.ipynb 
-# raw
-# output
+.gitignore-solutions
