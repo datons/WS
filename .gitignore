@@ -1,9 +1,11 @@
-raw
-output
 .ipynb_checkpoints
 .env
 10
-B.ipynb
-alpha_vantage.py
 __pycache__
 .DS_Store
+
+# solutions
+# alpha_vantage.py
+# B.ipynb 
+# raw
+# output
