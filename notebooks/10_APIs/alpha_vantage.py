@@ -10,7 +10,10 @@ def get_stock_data(symbol='IBM', apikey='EMZ0M6J3MBBCMTWG'):
         "apikey": apikey
     }
 
-    url = 'https://www.alphavantage.co/query'
+    URL_BASE = 'https://www.alphavantage.co/'
+    ENDPOINT = 'query'
+
+    url = URL_BASE + ENDPOINT
 
     res = requests.get(url=url, params=params)
     data = res.json()
